@@ -1,0 +1,24 @@
+.zero-pad {
+    padding : 0px 0px 0px 0px;
+}
+
+.btn-teal {
+    background-color: #00cc66;
+    color: white;
+    font-size: 14px;
+}
+
+.btn-teal:hover {
+    color:  #00cc66;
+    background-color: white;
+    border: 2px solid #00cc66;
+}
+
+.flight-results {
+    background-color: #00cc66;
+    color: white;
+    font-size: 15px;    
+}
+body {
+    min-height: 100vh; 
+}
